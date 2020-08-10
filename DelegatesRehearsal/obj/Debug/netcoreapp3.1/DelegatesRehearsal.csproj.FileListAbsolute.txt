@@ -1,0 +1,13 @@
+C:\Users\erpre\source\repos\DelegatesRehearsal\DelegatesRehearsal\bin\Debug\netcoreapp3.1\DelegatesRehearsal.exe
+C:\Users\erpre\source\repos\DelegatesRehearsal\DelegatesRehearsal\bin\Debug\netcoreapp3.1\DelegatesRehearsal.deps.json
+C:\Users\erpre\source\repos\DelegatesRehearsal\DelegatesRehearsal\bin\Debug\netcoreapp3.1\DelegatesRehearsal.runtimeconfig.json
+C:\Users\erpre\source\repos\DelegatesRehearsal\DelegatesRehearsal\bin\Debug\netcoreapp3.1\DelegatesRehearsal.runtimeconfig.dev.json
+C:\Users\erpre\source\repos\DelegatesRehearsal\DelegatesRehearsal\bin\Debug\netcoreapp3.1\DelegatesRehearsal.dll
+C:\Users\erpre\source\repos\DelegatesRehearsal\DelegatesRehearsal\bin\Debug\netcoreapp3.1\DelegatesRehearsal.pdb
+C:\Users\erpre\source\repos\DelegatesRehearsal\DelegatesRehearsal\obj\Debug\netcoreapp3.1\DelegatesRehearsal.csprojAssemblyReference.cache
+C:\Users\erpre\source\repos\DelegatesRehearsal\DelegatesRehearsal\obj\Debug\netcoreapp3.1\DelegatesRehearsal.AssemblyInfoInputs.cache
+C:\Users\erpre\source\repos\DelegatesRehearsal\DelegatesRehearsal\obj\Debug\netcoreapp3.1\DelegatesRehearsal.AssemblyInfo.cs
+C:\Users\erpre\source\repos\DelegatesRehearsal\DelegatesRehearsal\obj\Debug\netcoreapp3.1\DelegatesRehearsal.csproj.CoreCompileInputs.cache
+C:\Users\erpre\source\repos\DelegatesRehearsal\DelegatesRehearsal\obj\Debug\netcoreapp3.1\DelegatesRehearsal.dll
+C:\Users\erpre\source\repos\DelegatesRehearsal\DelegatesRehearsal\obj\Debug\netcoreapp3.1\DelegatesRehearsal.pdb
+C:\Users\erpre\source\repos\DelegatesRehearsal\DelegatesRehearsal\obj\Debug\netcoreapp3.1\DelegatesRehearsal.genruntimeconfig.cache
