@@ -31,6 +31,7 @@ namespace OtherRehearsal
     public class MyClass 
     {
         public delegate void CallBack(int i);
+        // here we are gona pass a method as a parameter
         public void LongRun(CallBack obj)
         {
             for (int i = 0; i < 100; i++)
