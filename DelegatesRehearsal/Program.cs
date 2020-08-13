@@ -15,9 +15,7 @@ namespace DelegatesRehearsal
             myPayment.PaymentErrorHandler = new x();
             myPayment.ApplyPayment();
 
-            myPayment.PaymentFailed -= OnMyFailed;
-
-         
+            myPayment.PaymentFailed -= OnMyFailed;         
 
         }
 

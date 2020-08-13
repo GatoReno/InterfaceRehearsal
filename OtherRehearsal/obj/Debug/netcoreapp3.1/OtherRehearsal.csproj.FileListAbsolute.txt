@@ -1,0 +1,13 @@
+C:\Users\erpre\source\repos\DelegatesRehearsal\OtherRehearsal\bin\Debug\netcoreapp3.1\OtherRehearsal.exe
+C:\Users\erpre\source\repos\DelegatesRehearsal\OtherRehearsal\bin\Debug\netcoreapp3.1\OtherRehearsal.deps.json
+C:\Users\erpre\source\repos\DelegatesRehearsal\OtherRehearsal\bin\Debug\netcoreapp3.1\OtherRehearsal.runtimeconfig.json
+C:\Users\erpre\source\repos\DelegatesRehearsal\OtherRehearsal\bin\Debug\netcoreapp3.1\OtherRehearsal.runtimeconfig.dev.json
+C:\Users\erpre\source\repos\DelegatesRehearsal\OtherRehearsal\bin\Debug\netcoreapp3.1\OtherRehearsal.dll
+C:\Users\erpre\source\repos\DelegatesRehearsal\OtherRehearsal\bin\Debug\netcoreapp3.1\OtherRehearsal.pdb
+C:\Users\erpre\source\repos\DelegatesRehearsal\OtherRehearsal\obj\Debug\netcoreapp3.1\OtherRehearsal.csprojAssemblyReference.cache
+C:\Users\erpre\source\repos\DelegatesRehearsal\OtherRehearsal\obj\Debug\netcoreapp3.1\OtherRehearsal.AssemblyInfoInputs.cache
+C:\Users\erpre\source\repos\DelegatesRehearsal\OtherRehearsal\obj\Debug\netcoreapp3.1\OtherRehearsal.AssemblyInfo.cs
+C:\Users\erpre\source\repos\DelegatesRehearsal\OtherRehearsal\obj\Debug\netcoreapp3.1\OtherRehearsal.csproj.CoreCompileInputs.cache
+C:\Users\erpre\source\repos\DelegatesRehearsal\OtherRehearsal\obj\Debug\netcoreapp3.1\OtherRehearsal.dll
+C:\Users\erpre\source\repos\DelegatesRehearsal\OtherRehearsal\obj\Debug\netcoreapp3.1\OtherRehearsal.pdb
+C:\Users\erpre\source\repos\DelegatesRehearsal\OtherRehearsal\obj\Debug\netcoreapp3.1\OtherRehearsal.genruntimeconfig.cache
